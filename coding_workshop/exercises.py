@@ -46,7 +46,7 @@ client = OpenAI(
 #exercise 0 - hello world python
 def hello_world():
 	st.write("Hello World")
-	st.write("My name is ... ")
+	st.write("My name is Ryan ")
 
 #exercise 1 - input 
 def input_exercise():
